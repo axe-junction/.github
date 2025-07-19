@@ -6,6 +6,15 @@
 
 ---
 
+<h3 align="center">Codek7 : the Self-Hosted Media Streaming Platform</h3>
+  <img src="https://media.discordapp.net/attachments/1298048300926238770/1396064147292160101/Group_33525.png?ex=687cb98e&is=687b680e&hm=fc7cbe471635f4ca88db69f6aa41dd3fa0f356aea0d965d9d7909fbe24f1808f&=&format=webp&quality=lossless&width=2844&height=1256">
+  <p align="center">
+    A robust, self-hosted media streaming platform with automatic transcoding and adaptive bitrate delivery.
+    <a href="https://deepwiki.com/lumbrjx/codek7/1-overview" >Wiki</a>
+  </p>
+
+---
+
 ##  Architecture Overview
 
 AXE follows a modular microservices architecture with **clear domain separation**, high availability, and AI capabilities.
