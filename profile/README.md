@@ -33,7 +33,7 @@ AXE follows a modular microservices architecture with **clear domain separation*
 ## Service Breakdown
 
 ###  Gateway Service
-- Built with **Go + Fiber**
+- Built with **Go + chi**
 - Handles **OAuth 2.0 login** (Google)
 - Issues **JWT tokens** to secure access
 - Uses **gRPC** to communicate with Routing and VTC services
